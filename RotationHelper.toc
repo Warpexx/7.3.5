@@ -8,13 +8,14 @@
 
 ## Dependencies: LibStub, LibRangeCheck-2.0
 
-# CoreFiles
+# CoreFiles.
+Localization.lua
 Core.lua
 Conditions.lua
 Venums.lua
 
 # Rotations
-Rotations\ArmsWarrior.lua
+Rotations\armswarrior.lua
 
 # UI 
 UI.lua
