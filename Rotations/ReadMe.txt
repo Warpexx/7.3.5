@@ -20,6 +20,7 @@ Like;
 ## Dependencies: LibStub, LibRangeCheck-2.0
 
 # CoreFiles
+Localization.lua
 Core.lua
 Conditions.lua
 Venums.lua
@@ -29,5 +30,6 @@ Rotations\ArmsWarrior.lua -- AS YOU CAN SEE HERE.
 
 # UI 
 UI.lua
+
 
 Have fun.^^
